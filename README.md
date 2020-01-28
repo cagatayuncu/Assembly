@@ -11,8 +11,8 @@
 
 **LED control in 3 different ways by using button with assembly programming language.**
 
-**1-3 stage speed control with buttons.**
+1-3 stage speed control with buttons<br />
 
-**2-Increasing the number of LEDs lit (1-4).**
+2-Increasing the number of LEDs lit (1-4)<br />
 
-**3-Changing the flow direction of LEDs.**
+3-Changing the flow direction of LEDs.<br />
